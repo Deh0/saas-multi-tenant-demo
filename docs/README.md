@@ -1,5 +1,9 @@
+![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
+![Django](https://img.shields.io/badge/django-4.2+-green.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+<img src="https://komarev.com/ghpvc/?username=deh0&label=Profile%20views&color=0e75b6&style=flat" alt="deh0">
 
-## Bribatti Tech | Plataforma SaaS Multi-Tenant
+## Plataforma SaaS Multi-Tenant Demo
 
 Plataforma completa de e-commerce com ERP integrado, desenvolvida para pequenas e médias empresas que precisam de um site com gateway de pagamento, logística de entrega e emissão de notas fiscais em um só lugar, junto com o sistema de gestão completo.
 
