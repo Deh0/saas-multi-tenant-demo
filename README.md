@@ -39,7 +39,7 @@ O Frontend é a nossa parte visual, onde vamos criar nossos desings e tudo mais.
 
 Este repositório é a versão demo pública, ele serve apenas como um protótipo do projeto real, para mostrar como foi feito e desenvolvido.
 
-O projeto real se trata da empresa Bribatti Tech. Plataforma completa de e-commerce com ERP integrado, desenvolvida para pequenas e médias empresas que precisam de um site com gateway de pagamento, logística de entrega, e emissão de notas fiscais em um só lugar, junto com o sistema de gestão completo. Pode acessar mais informações no site oficial da empresa: [bribatti.com.br](https://bribatti.com.br/)
+O projeto real se trata da empresa Bribatti Tech. Plataforma completa de e-commerce com ERP integrado, desenvolvida para pequenas e médias empresas que precisam de um site com gateway de pagamento, logística de entrega, e emissão de notas fiscais em um só lugar, junto com o sistema de gestão completo. 
 
 ## Deseja clonar esse repositório?
 
