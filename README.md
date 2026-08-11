@@ -92,7 +92,7 @@ O Frontend é a nossa parte visual, onde vamos criar nossos desings e tudo mais.
 
 Este repositório é a versão demo pública, ele serve apenas como um protótipo do projeto real, para mostrar como foi feito e desenvolvido.
 
-O projeto real se trata da empresa Bribatti Tech. Plataforma completa de e-commerce com ERP integrado, desenvolvida para pequenas e médias empresas que precisam de um site com gateway de pagamento, logística de entrega, e emissão de notas fiscais em um só lugar, junto com o sistema de gestão completo. Pode acessar mais informações no site oficial da empresa: [bribatti.com.br](https://bribatti.com.br/)
+O projeto real se trata da empresa Bribatti Tech. Plataforma completa de e-commerce com ERP integrado, desenvolvida para pequenas e médias empresas que precisam de um site com gateway de pagamento, logística de entrega, e emissão de notas fiscais em um só lugar, junto com o sistema de gestão completo. 
 
 ## Deseja clonar esse repositório?
 
@@ -142,18 +142,13 @@ Acesse já aos documentos com conteúdo prático do e-commerce, na ordem recomen
 
 Acesse já aos documentos com conteúdo prático do sistema de gestão, na ordem recomendada: 
 
-[Descrição Textual Detalhada do ERP](docs/erp/descricao/) - 
+[Descrição textual Detalhada do ERP](docs/erp/descricao/geral.md) - 
 
----------
-[Requisitos Funcionais do ERP](docs/erp/requisitos/requisitos_funcionais/) -
+--------
+[Requisitos Funcionais do ERP](docs/erp/requisitos_funcionais/) - 
 
----------
-[Requisitos Não Funcionais do ERP](docs/erp/requisitos/requisitos_n_funcionais/) - 
+--------
+[Requisitos Não Funcionais do ERP](docs/erp/requisitos_n_funcionais/) - 
 
----------
-[Diagramas do Sistema de Gestão](docs/erp/diagramas/) -
-
----------
-[Modelagem de Dados](docs/erp/modelagem/) - 
-
-
+--------
+[Modelagem de dados](docs/erp/modelagem/)
