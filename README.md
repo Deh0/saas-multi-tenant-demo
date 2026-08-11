@@ -3,10 +3,6 @@
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 <img src="https://komarev.com/ghpvc/?username=deh0&label=%20Views&color=0e75b6&style=flat" alt="deh0">
 
-![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
-![Django](https://img.shields.io/badge/django-4.2+-green.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
-<img src="https://komarev.com/ghpvc/?username=deh0&label=%20Views&color=0e75b6&style=flat" alt="deh0">
 
 # Plataforma SaaS Multi-Tenant Demo
 
